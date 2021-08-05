@@ -1,7 +1,6 @@
 {
 	"total": 2,
-	"products": 
-	[
+	"products": [
 	  {
 		"id": 1,
 		"name": "Samsung Galaxy S21",
@@ -26,5 +25,8 @@
 		"price": 1300,
 		"articul": "22346",
 	  }
-	]
+	],
+	"profile": {
+	  "name": "typicode"
+	}
 }
