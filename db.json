@@ -243,30 +243,30 @@
     "sub": null
   }
 ],
-  	"products": [
-	  {
-		"id": 1,
-		"name": "Samsung Galaxy S21",
-		"count": 1,
-		"images": [
-			"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg",
-			"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg",
-			"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg"
-			],
-		"price": 1200,
-		"articul": "12345",
-	  },
-	  {
-		"id": 2,
-		"name": "Samsung Galaxy S22",
-		"count": 2,
-		"images": [
-			"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg",
-			"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg",
-			"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg"
-			],
-		"price": 1300,
-		"articul": "22346",
-	  }
-	]
+"products": [
+  {
+	"id": 1,
+	"name": "Samsung Galaxy S21",
+	"count": 1,
+	"images": [
+		"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg",
+		"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg",
+		"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg"
+		],
+	"price": 1200,
+	"articul": "12345"
+  },
+  {
+	"id": 2,
+	"name": "Samsung Galaxy S22",
+	"count": 2,
+	"images": [
+		"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg",
+		"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg",
+		"http://new.alexstore24.ru/storage/product/442/360/f6cdc26b-bd2d-11eb-b80c-005056021804.jpg"
+		],
+	"price": 1300,
+	"articul": "22346"
+  }
+]
 }
